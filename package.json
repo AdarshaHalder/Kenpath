@@ -1,0 +1,14 @@
+{
+  "name": "kenpath-jati-praman-console",
+  "private": true,
+  "description": "Hindi officer console for caste certificate (जाति प्रमाण पत्र) applications, with AI assistance",
+  "scripts": {
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build && npm --prefix server run build",
+    "start": "npm --prefix server start",
+    "test": "npm --prefix server test",
+    "seed": "npm --prefix server run seed"
+  }
+}
