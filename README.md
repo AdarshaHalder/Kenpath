@@ -3,7 +3,7 @@
 
 > **हिन्दी सारांश:** यह तहसील कार्यालय के अधिकारियों (तहसीलदार / नायब तहसीलदार) के लिए एक हिन्दी वेब एप्लिकेशन है, जो जाति प्रमाण पत्र के लंबित आवेदनों को निपटाने में मदद करता है। डैशबोर्ड बताता है कि पहले किस आवेदन पर ध्यान देना है। हर आवेदन पर नियम-आधारित जाँच और AI सहायक की टिप्पणी (सारांश, अनुपलब्ध दस्तावेज़, विसंगतियाँ, सुझाया गया निर्णय व कारण) मिलती है। **अंतिम निर्णय (स्वीकृत / सुधार हेतु लौटाएँ / अस्वीकृत) हमेशा अधिकारी का होता है।** सभी आँकड़े काल्पनिक हैं।
 
-**Live demo:** _add your Render URL here_
+**Live demo:** https://kenpath.onrender.com (Render free plan: the first load after a period of inactivity can take up to a minute)
 **Login:** `tehsildar@chandanpur.example.in` / `demo1234` (तहसीलदार), or `naib@chandanpur.example.in` / `demo1234` (नायब तहसीलदार). The login page has a one-click button to fill in the demo account.
 
 The UI is in **Hindi by default**, with an **English toggle** in the top bar.
