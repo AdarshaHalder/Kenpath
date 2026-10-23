@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/api.ts","./src/auth.tsx","./src/i18n.tsx","./src/main.tsx","./src/types.ts","./src/useAsync.ts","./src/components/Layout.tsx","./src/components/ui.tsx","./src/pages/Application.tsx","./src/pages/Decided.tsx","./src/pages/Login.tsx","./src/pages/Queue.tsx","./vite.config.ts"],"version":"5.6.3"}
